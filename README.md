@@ -12,6 +12,12 @@ El proyecto tiene como objetivo aplicar los fundamentos de HTML5 y CSS3 para con
 **Clase:** CSS Fundamentals y Diseño Visual  
 **Año:** 2026
 
+## Demo en vivo
+
+Puedes visitar la galería funcionando en GitHub Pages:
+
+https://ozkr464-beep.github.io/henry-css-fundamentals-techstore/
+
 ## Tecnologías utilizadas
 
 - **HTML5:** estructura semántica de la página.
